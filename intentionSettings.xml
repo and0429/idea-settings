@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
   </component>
 </application>
