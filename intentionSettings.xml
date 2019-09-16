@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Edit Injection Settings" />
     <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
+    <ignoreAction name="Java/Modifiers/Change access modifier" />
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
   </component>
 </application>
