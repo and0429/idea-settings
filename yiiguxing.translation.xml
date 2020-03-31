@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FZHSG" />
       <item value="YCS XH" />
       <item value="PARTITION BY TRIM(m.JH) ORDER BY m.date2" />
       <item value="d By Time" />
@@ -9,7 +10,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
