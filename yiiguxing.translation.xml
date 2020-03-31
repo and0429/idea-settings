@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="YCS XH" />
       <item value="PARTITION BY TRIM(m.JH) ORDER BY m.date2" />
       <item value="d By Time" />
       <item value="Well Condition" />
