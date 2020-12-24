@@ -4,8 +4,9 @@
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="/t" value="/**&#10; * $END$&#10; * &#10; * @author zhangkai&#10; * @date   $date$&#10; * &#10; */" description="java类描述" toReformat="true" toShortenFQNames="true">
+  <template name="/t" value="/**&#10; * $END$&#10; * &#10; * @author     zhangkai&#10; * @date       $date$&#10; * @className  $className$&#10; * @version    1.0&#10; * &#10; */" description="java类描述" toReformat="true" toShortenFQNames="true">
     <variable name="date" expression="date()-time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
