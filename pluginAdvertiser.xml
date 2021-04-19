@@ -82,6 +82,11 @@
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="com.poratu.idea.plugins.tomcat">
+                    <value>
+                      <FeaturePluginData displayName="Smart Tomcat" pluginName="Smart Tomcat" pluginId="com.poratu.idea.plugins.tomcat" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
