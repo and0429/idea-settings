@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="RestfulTool.Notify" displayType="NONE" />
+    <notification groupId="Run Anything" shouldLog="false" />
+  </component>
+</application>
