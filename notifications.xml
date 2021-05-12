@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="RestfulTool.Notify" displayType="NONE" />
     <notification groupId="Run Anything" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
   </component>
 </application>
